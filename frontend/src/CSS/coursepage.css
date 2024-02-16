@@ -1,0 +1,34 @@
+.maincol {
+     padding: 3%;
+     margin-top: 100px;
+}
+
+.detailcol {
+     margin-top: 100px;
+}
+
+.title {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cat {
+     color: sienna;
+}
+
+.description {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.keywords {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.createdby {
+     color: sienna;
+}
+
+.listofsimilarcourses {
+     margin-left: 20px;
+     margin-bottom: 5%;
+     margin-top: 5%;
+}

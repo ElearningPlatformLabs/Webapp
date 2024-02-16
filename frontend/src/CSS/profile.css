@@ -1,0 +1,32 @@
+.course_recommendation {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     text-align: center;
+}
+
+.profile_pic {
+     height: 100%;
+     width: 50%;
+     margin-left: 25%;
+}
+
+.headerrow {
+     margin-top: 2%;
+}
+
+.name {
+     margin-left: 0;
+     margin-top: 2%;
+}
+
+.emailicon {
+     margin-left: 20%;
+     margin-right: 2%;
+
+}
+
+.emailh4 {
+     margin-top: 2%;
+     margin-bottom: 2%;
+     background-color: #FFF6E9;
+     padding: 1%;
+}
